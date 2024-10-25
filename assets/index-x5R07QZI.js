@@ -30652,7 +30652,7 @@ function QD() {
     ],
   });
 }
-const e4 = "/2025-RPITST/assets/structure-DkyNJ0Es.jpeg";
+const e4 = "./2025-RPITST/assets/structure-DkyNJ0Es.jpeg";
 function t4() {
   return g.jsx("div", { className: "", children: g.jsx("img", { src: e4 }) });
 }

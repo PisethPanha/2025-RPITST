@@ -16888,11 +16888,11 @@ var pA = new o_("load", [
   Cp,
 ]);
 pA.init();
-const mA = "/2025-RPITST/assets/IMG1-BnRLYUiD.png",
-  gA = "/2025-RPITST/assets/IMG3-C740SyTr.png",
-  vA = "/2025-RPITST/assets/IMG3-C740SyTr.png",
-  yA = "/2025-RPITST/assets/IMG4-BU7IbzUA.png",
-  wA = "/2025-RPITST/assets/IMG5-DUPTrNwj.png";
+const mA = "./2025-RPITST/assets/IMG1-BnRLYUiD.png",
+  gA = "./2025-RPITST/assets/IMG2.png",
+  vA = "./2025-RPITST/assets/IMG3-C740SyTr.png",
+  yA = "./2025-RPITST/assets/IMG4-BU7IbzUA.png",
+  wA = "./2025-RPITST/assets/IMG5-DUPTrNwj.png";
 function xA(e) {
   if (typeof Proxy > "u") return e;
   const t = new Map(),
